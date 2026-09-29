@@ -9,7 +9,7 @@
     width: 100%;
     height: 250px;
     position: relative;
-    transition: transform 1s;
+    transition: transform 0.5s;
     transform-style: preserve-3d;
 }
 
@@ -36,6 +36,6 @@
 
 
 .back {
-    background-color: #4e9b9b;
+    background-color: #B4EBE6;
     transform: rotateY(180deg)
 }
